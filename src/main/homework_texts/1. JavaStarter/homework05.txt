@@ -1,0 +1,21 @@
+Реализовать методы класса String:
+1. subString (от и до)
+2. subString (от)
+3. subString (до)
+4. trim
+5. trim (обрезать и внутринние) "   Hello   world   " -> "Hello world"
+6. indexOf
+7. indexOf (от)
+8. lastIndexOf
+9. contains
+10.contains (от)
+11.toString(int[] arr) new int[]{1, 3, 4, 5} -> "[1, 3, 4, 5]"
+12.replaceAll
+
+
+
+
+13. Найти наибольшую подстроку из двух строк
+(Пример - "hello world"  "worship hell"  -> "hell")
+14. Отсортировать масив строк.
+15. Отсортировать двухмерный масив строк зигзагом.
